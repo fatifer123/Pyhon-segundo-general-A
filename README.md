@@ -23,20 +23,7 @@ Repositorio con ejercicios de Python desde lo básico hasta diccionarios y una t
 - Diccionarios
 
 ## Lista de reproducción
-Enlace:
-https://youtu.be/rwAGYxYtSXs
-https://youtu.be/H0gLgJOZCVU
-https://youtu.be/JVJ_mKoxuG8
-https://youtu.be/D-7Eizy8sD8
-https://youtu.be/f9ou5uwPnB4
-https://youtu.be/FsJYxYT6Gi8
-https://youtu.be/4rVl-dkFBUs
-https://youtu.be/y3I3qw_mng4
-https://youtu.be/6h2DZIsFQkM
-https://youtu.be/mWHtKYwIIB8
-https://youtu.be/blmnxjvF4lI
-https://youtu.be/0hVXpLZZ7tw
-https://youtu.be/oY5Al5iyr6E
+Enlace: https://www.youtube.com/playlist?list=PLs_crNOdiPxOz-FDzjoISQwyLmr2rZStA
 
 ## Reflexión
 
@@ -47,4 +34,4 @@ Tema más difícil:
 Diccionarios
 
 Aprendizaje:
-Aprendí programación básica y uso de GitHub.
+Aprendí los fundamentos de programación en Python, la creación de programas utilizando diferentes estructuras de control y datos, así como el uso de Git y GitHub para organizar y publicar mis proyectos.
